@@ -12,6 +12,8 @@ I also build things folks find useful, such as [Bootstrapr.io](https://bootstrap
 
 ## Some Fun Projects & Tools  
 - [Bootstrapr](https://bootstrapr.io)
+- [Roll Call](https://randal-sean-harrison.github.io/roll-call/)
+- [Emergency Response Plan](https://randal-sean-harrison.github.io/erp/)
 - [Free Academic Website Template](https://randal-sean-harrison.github.io/randal-sean-harrison-academic-website-template-bootstrap-5/)
 - [Searchable Cards Template](https://randal-sean-harrison.github.io/bootstrap-card-search)
 - [Text is Visual](https://randal-sean-harrison.github.io/text-is-visual/)  
